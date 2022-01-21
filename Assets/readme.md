@@ -1,4 +1,4 @@
-# Develop Quest2 app on MacOS
+# Developing Quest2 app with Unity on MacOS
 
 ## Step1. 打開Unity 2019.x版本,創建一個新的項目
 
@@ -76,4 +76,5 @@ brew install android-platform-tools
 ---
 
 # 導入 MRTK
-
+參考此網站: 
+https://blog.csdn.net/zt18810671762/article/details/121104857?spm=1001.2014.3001.5501
