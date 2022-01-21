@@ -76,5 +76,10 @@ brew install android-platform-tools
 ---
 
 # 導入 MRTK
+## Step1. 導入5個 Unity Packages
 參考此網站: 
 https://blog.csdn.net/zt18810671762/article/details/121104857?spm=1001.2014.3001.5501
+
+## Step2. 與 Oculus Quest2 整合
+參考此網站:
+https://www.youtube.com/watch?v=rb5GZVDREdk

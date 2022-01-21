@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
-    guid: a9c41884ef0c347628dfd8a4af4a022e
-  m_configObjects: {}
+    path: Assets/MRTK/Examples/Experimental/Navigation/Teleport/TeleportHotspot.unity
+    guid: b2840b1643d1b794f8354743dceabcd9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c184baf40e2c549c183ea7cc267932e3,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 28826b389a7054827bd0f3dc0a982071,
+      type: 2}
