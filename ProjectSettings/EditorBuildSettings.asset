@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MRTK/Examples/Experimental/Navigation/Teleport/TeleportHotspot.unity
-    guid: b2840b1643d1b794f8354743dceabcd9
+    path: Assets/Scenes/SpeedStaking.unity
+    guid: 6ffcb4f4dd46d4dbd88159e64ffa4189
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c184baf40e2c549c183ea7cc267932e3,
       type: 2}
