@@ -72,18 +72,34 @@ No designer before knew how to apply familiar interactions to virtual reality to
 #### 2.2 Intuition Experiment
 直覺實驗在人機交互領域被提出作為一種測試直觀操作的方法，Stefan Brandenburg 和 Katharina Sachse [Intuition comes with experience] 設計了一個實驗環境是，他們製作了一個多點觸控桌面（約 80 cm x 105 cm）。介面包含了一個工作區域，一個文字敘述區域，一個開始按鈕和三個任務物件被放置在工作區域的右邊。實驗的任務是參加者對物件透過手勢執行三種不同的操作(旋轉、剪切、縮放)。
 他們評估了兩個不同的時間，即首次點擊時間 (TFC) 和總任務時間 (TTT)。 TFC 代表從按下開始按鈕到開始執行手勢的延遲，而 TTT 代表從按下開始按鈕到成功完成手勢任務的整體時間。數據顯示，隨著時間的推移與經驗的累積，受試者在手勢執行所需的時間 (TTT) 和他們的初始反應時間 (TFC) 方面變得更快。
+
 Intuition experiments have been proposed in the field of human-computer interaction as a way to test intuitive operation. Stefan Brandenburg and Katharina Sachse [Intuition comes with experience] designed an experimental environment in which they made a multi-touch desktop (about 80 cm x 105 cm). The interface consists of a work area, a text description area, a start button and three task objects are placed on the right side of the work area. The task of the experiment was for the participants to perform three different actions (rotation, shearing, scaling) on the object through gestures.
 They evaluated two different times, time to first click (TFC) and total task time (TTT). TFC represents the delay from pressing the start button to starting the gesture, while TTT represents the overall time from pressing the start button to successfully completing the gesture task. The data showed that over time and with experience, subjects became faster in terms of time required to perform gestures (TTT) and their initial reaction time (TFC).
 
+---
 Tatsuya Iwaki, Naoki Nakamura 和 Katsuo Inoue [Basic study of the intuitive feel for user interface using the serial reaction time task.]製作了一個陣列式的按鈕顯示儀，參與者被要求盡可能快速地按下出現圖案的按鈕，在每次試驗中，測量從圖案顯示到按鈕按下的反應時間。之後，參與者以 9 分李克特式量表對反應的認知方面的直觀感覺進行評分。並在一週後再次執行相同的實驗。從他們的結果得知，參與者對任務反應的直覺感覺自評分數隨著反應時間的變化而增加。這意味著參與者覺得隨著內隱學習的進步，任務反應變得更加直觀。基於這些結果，人們認為從學習中獲得的知識是產品直觀操作的基礎。
+
 Tatsuya Iwaki, Naoki Nakamura and Katsuo Inoue [Basic study of the intuitive feel for user interface using the serial reaction time task.] built an array of button displays in which participants were asked to press a patterned button as quickly as possible , and in each trial, measure the reaction time from pattern display to button press. Afterwards, participants rated the intuitive perception of the cognitive aspects of the response on a 9-point Likert scale. and perform the same experiment again a week later. From their results, participants' self-rated scores for their intuitive sense of response to the task increased with response time. This meant that participants felt that task responses became more intuitive as implicit learning progressed. Based on these results, it is believed that the knowledge gained from learning is the basis for intuitive operation of the product.
 
+---
 Alethea L. Blackler, Doug Mahar 跟 Vesna Popovic
 [Empirical investigations into intuitive interaction: A summary]在他們其中一項實驗是要求使用執行兩個動作，第一個動作是使用相機的變焦功能在自動對焦模式下拍攝一張照片。
 第二個動作，找到並且刪掉剛剛拍攝的照片。搜索存儲在相機中的指定圖像並放大它。結果表明，對於曾經使用過相似功能產品的參與者能夠更快、更直觀地完成操作。且產品直觀的首次使用結果尤為重要，因為在首次操作的情況下，參與者還不清楚指定功能在何處，但他們在第一次探索時就正確地完成任務。這些不是物理可供性，在多數情況下是很難預測到的特徵，因此參與者只能根據過往曾經操作過的類似特徵來採取行動。因此，他們的結果支持了這樣一種觀點，即在產品中具有類似的操作或者相同的文字介紹較能讓人們第一次直觀地使用它。 
+
 Alethea L. Blackler, Doug Mahar and Vesna Popovic
 [Empirical investigations into intuitive interaction: A summary] In one of their experiments they were asked to perform two actions, the first action being to use the camera's zoom function to take a picture in autofocus mode.
 The second action, find and delete the photo just taken. Searches for the specified image stored in the camera and zooms in on it. The results showed that participants who had used similar functional products were able to complete the operation faster and more intuitively. And the intuitive first-use results of the product are especially important, because in the case of the first operation, the participants did not know where the specified function was, but they completed the task correctly on the first exploration. These are not physical affordances, and in most cases are characteristics that are difficult to predict, so participants can only act on similar characteristics that they have manipulated in the past. Therefore, their results support the idea that having a similar action or the same text description in a product is more intuitive for people to use it for the first time.
 
+---
+Despina Michael-Grigoriou, Panayiotis Yiannakou 跟 Maria Christofi [Intuitive Interaction for Exploring Human Anatomy in a VR Setup] 進行了組間研究，22 名參與者被平均分配在兩個組別。第一組"VR 組"的參與者透過VR 手勢操控的方式探索骨骼系統，而第二組"SP 組"(slide-show presentation)的參與者則通過幻燈片演示探索人體解剖結構。以上兩種方法可以找到完全相同的信息。
+兩組的參與者都在執行實驗之前都先寫了一份總分十分的預測試知識問卷（pre-KT），執行完實驗之後再寫一份同樣的知識問卷 (post-KT)。 
+此外，他們在實驗後給 VR 組的參與者發放了另一份問卷(5 點李克特量表)，是用來評估手部動作識別技術的問卷。 
+從他們研究的結果顯示，在第一份問卷當中，從 pre-KT 跟 post_KT的數據分析可以了解到， VR 技術相對於幻燈片演示方法具有優勢。
+第二份問卷，VR組的參與者對於透過手勢操作所帶來的沈浸感，系統的認知感跟操作輕鬆程度給予了非常高的評分。
 
+Despina Michael-Grigoriou, Panayiotis Yiannakou and Maria Christofi [Intuitive Interaction for Exploring Human Anatomy in a VR Setup] conducted a between-group study with 22 participants equally divided between the two groups. Participants in the first "VR group" explored the skeletal system through VR gesture manipulation, while the second "SP group" (slide-show presentation) explored the human anatomy through a slide-show presentation. The above two methods can find the exact same information.
+Participants in both groups wrote a pre-test knowledge questionnaire (pre-KT) with a total score of 10 before performing the experiment, and then wrote the same knowledge questionnaire (post-KT) after performing the experiment.
+In addition, they gave participants in the VR group another questionnaire (5-point Likert scale) after the experiment, which was used to assess hand motion recognition techniques.
+From the results of their research, in the first questionnaire, it can be seen from the data analysis of pre-KT and post_KT that VR technology has advantages over the slide presentation method.
+In the second questionnaire, the participants in the VR group gave very high scores to the sense of immersion brought by gesture operation, the cognitive sense of the system and the ease of operation. 
 #### 2.3 Relation between EEG and Intuition
