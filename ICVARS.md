@@ -55,6 +55,7 @@ For both camera-based and sensor-based methods, gesture input can be detected in
 
 We compare the most common devices today, Oculus Quest2 [20], LeapMotion [21], ValveIndex [22], with sensor-based data gloves [23], and develop a series of applications that allow users to interact through gestures (Fig. 1a, 1b, 1c). Therefore, the user can operate different gesture interaction tasks through the above four different devices, and perform a series of user studies to obtain suitable application scenarios between the devices.
 
+---
 ### 2 RELATED WORKS
 
 #### 2.1 Intuitive Interaction
@@ -69,6 +70,8 @@ Everyday objects, furniture, and lifestyles have a profound impact on intuitive 
 Intuitions are often unconscious and therefore difficult to describe in words, and can often be observed through people's unconscious behavior [Ag86; Bs03; BRBP90; DDA86; Fs87; KC02; LG97; NS84]. The intuitive processing form is faster than the conscious thought processing mode [Bs03; Sl83], which is true in most cases, but not infallible [Bs03]. Based on this understanding, we formulate the definition of intuitive interaction:
 Intuition is a cognitive process, a behavior that can be learned from past experience, executed in the present moment quickly and unconsciously, and difficult to describe in words. Therefore, people intuitively use manipulations in situations they have often encountered before. Intuitive interactions are also rapid and unconscious, so people may not be able to explain how they make decisions during intuitive interactions [B108; BPM02; BPM03a; BPM03b; BPM04a; BPM04b; BPM05; BPM07, Concepts of intuitive interaction].
 No designer before knew how to apply familiar interactions to virtual reality to make it intuitive. We experimentally determined the relationship between intuitive interaction and familiarity, and how different aspects of scene design affect intuitive interaction [Bl08; BPM02; BPM03a; BPM03b; BPM04b; BPM05; BPM07; BPM09] The main findings of our study are: Familiar users with similar features are faster at completing tasks and more adaptable to perform interactive tasks than users with less familiarity with related features. 
+
+---
 #### 2.2 Intuition Experiment
 直覺實驗在人機交互領域被提出作為一種測試直觀操作的方法，Stefan Brandenburg 和 Katharina Sachse [Intuition comes with experience] 設計了一個實驗環境是，他們製作了一個多點觸控桌面（約 80 cm x 105 cm）。介面包含了一個工作區域，一個文字敘述區域，一個開始按鈕和三個任務物件被放置在工作區域的右邊。實驗的任務是參加者對物件透過手勢執行三種不同的操作(旋轉、剪切、縮放)。
 他們評估了兩個不同的時間，即首次點擊時間 (TFC) 和總任務時間 (TTT)。 TFC 代表從按下開始按鈕到開始執行手勢的延遲，而 TTT 代表從按下開始按鈕到成功完成手勢任務的整體時間。數據顯示，隨著時間的推移與經驗的累積，受試者在手勢執行所需的時間 (TTT) 和他們的初始反應時間 (TFC) 方面變得更快。
@@ -102,4 +105,9 @@ Participants in both groups wrote a pre-test knowledge questionnaire (pre-KT) wi
 In addition, they gave participants in the VR group another questionnaire (5-point Likert scale) after the experiment, which was used to assess hand motion recognition techniques.
 From the results of their research, in the first questionnaire, it can be seen from the data analysis of pre-KT and post_KT that VR technology has advantages over the slide presentation method.
 In the second questionnaire, the participants in the VR group gave very high scores to the sense of immersion brought by gesture operation, the cognitive sense of the system and the ease of operation. 
+
+---
+Shital Desai, Vesna Popovic 跟 Alethea L. Blackler [Intuitive Interaction in a Mixed Reality System] 實施了一項實驗，邀請了5 至 12 歲年齡段的 42 名兒童遊玩來自 Tangible Play 的名為 Osmo 的混合現實遊戲系統。在其中5.1節分析的部分是研究混合現實遊戲系統中的直觀交互。 他們運行相關的弗里德曼檢驗以確定在體驗混合現實遊戲系統的兒童中，直覺、非直覺交互和部分直覺交互的數量之間是否存在統計學上的顯著差異。由他們的結果可以得出直覺交互比非直覺交互和部分直覺交互具有更高的平均排名。
+
+Shital Desai, Vesna Popovic and Alethea L. Blackler [Intuitive Interaction in a Mixed Reality System] conducted an experiment in which 42 children aged 5 to 12 were invited to play a mixed reality game system called Osmo from Tangible Play . The part analyzed in Section 5.1 is to study intuitive interactions in mixed reality game systems. They ran a related Friedman test to determine whether there was a statistically significant difference in the number of intuitive, non-intuitive, and partially intuitive interactions among children who experienced mixed-reality game systems. From their results, it can be concluded that intuitive interactions have higher average rankings than non-intuitive interactions and partial intuitive interactions. 
 #### 2.3 Relation between EEG and Intuition
