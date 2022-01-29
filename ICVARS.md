@@ -110,4 +110,32 @@ In the second questionnaire, the participants in the VR group gave very high sco
 Shital Desai, Vesna Popovic 跟 Alethea L. Blackler [Intuitive Interaction in a Mixed Reality System] 實施了一項實驗，邀請了5 至 12 歲年齡段的 42 名兒童遊玩來自 Tangible Play 的名為 Osmo 的混合現實遊戲系統。在其中5.1節分析的部分是研究混合現實遊戲系統中的直觀交互。 他們運行相關的弗里德曼檢驗以確定在體驗混合現實遊戲系統的兒童中，直覺、非直覺交互和部分直覺交互的數量之間是否存在統計學上的顯著差異。由他們的結果可以得出直覺交互比非直覺交互和部分直覺交互具有更高的平均排名。
 
 Shital Desai, Vesna Popovic and Alethea L. Blackler [Intuitive Interaction in a Mixed Reality System] conducted an experiment in which 42 children aged 5 to 12 were invited to play a mixed reality game system called Osmo from Tangible Play . The part analyzed in Section 5.1 is to study intuitive interactions in mixed reality game systems. They ran a related Friedman test to determine whether there was a statistically significant difference in the number of intuitive, non-intuitive, and partially intuitive interactions among children who experienced mixed-reality game systems. From their results, it can be concluded that intuitive interactions have higher average rankings than non-intuitive interactions and partial intuitive interactions. 
+
+---
 #### 2.3 Relation between EEG and Intuition
+Chamandeep Kaur 跟 Preeti Singh [EG Derived Neuronal Dynamics during Meditation: Progress and Challenges] 提到
+δ波(Delta band)頻率於0.1-4Hz之間，屬於一種低頻率且振幅變化趨勢最高的腦波波段，出現於成人的深層睡眠狀態或是嬰兒時期，則表示睡眠品質的好壞與此相關。
+θ波(Theta band)頻率於4-8Hz之間，振幅約30-60uV，大多出現於幼童時期或是成人半睡半醒的狀態以及意識靜止的冥想放鬆狀態之間。是一種適於測量低焦慮、低恐懼狀態下的連續性專注指標，也是自我需求管理的內部神經指標。因此，θ波對於觸發深層記憶、強化長期記憶等幫助極大。
+
+低α波(Low Alpha band) 頻率於8-10Hz之間，振幅小於50uV，大多發生在成人時期中，當人閉著眼睛或是精神處於非活動狀態之中，與放鬆和自由的心情有關，也與學習新的訊息（記憶而無理解）有關。
+高α波(High Alpha band)頻率於10-13Hz之間，為高頻率且低振幅的波段，代表清醒而放鬆的狀態，又稱「輕鬆腦波」。此時的身心的耗能較少，腦中所獲得的能量相對較高。因此，此狀態代表大腦運作順暢、具有靈感且直覺敏銳，是一學習與思考的最佳腦波狀態。
+
+低β波(Low Beta band)頻率於13-20Hz之間，通常振幅小於30uV，會出現於所有年齡層的警戒狀態以及被個人期望所引發的焦慮情緒中。代表人類對於自我和周遭意識清楚且專注的狀態。
+高β波(High Beta band)頻率於20-30Hz之間，是人類在活躍思考及專心的心理狀態，亦指一般清醒時的精神狀況，俗稱「緊張腦波」，身體將準備隨時因應外在環境作反應；此時身心能量耗損快速，容易累積壓力。但是，適量的β波則有助於提升注意力，有益於個人學習認知行為。
+
+低γ波(Low gamma band)頻率於30-46Hz之間，與情緒穩定、正面思考有關。過去常被忽略，但近年研究發現，此波和選擇性注意力有關。此時的心智是快樂、平靜且有秩序的。此波會因為受試者真心喜歡而有所起伏。
+高γ波(High gamma band)頻率於46-70Hz之間，當人類出現此波的大幅變動則表示極度喜歡(或是近乎衝動的喜歡)。如果受試者真的衝動喜歡這被測試的物件，此波型就會產生起伏。
+Chamandeep Kaur mentioned to Preeti Singh [EG Derived Neuronal Dynamics during Meditation: Progress and Challenges]
+The frequency of delta wave (Delta band) is between 0.1-4Hz. It belongs to a low frequency brain wave band with the highest amplitude variation trend. It appears in deep sleep in adults or in infancy, indicating that the quality of sleep is related to this. .
+Theta wave (Theta band) has a frequency between 4-8Hz and an amplitude of about 30-60uV. Most of them appear in childhood or in the half-asleep state of adults and the state of meditation and relaxation when the consciousness is still. It is a continuous focus index suitable for measuring low anxiety and low fear state, and it is also an internal neural index for self-demand management. Therefore, theta waves are extremely helpful for triggering deep memory and strengthening long-term memory.
+
+Low alpha wave (Low Alpha band) The frequency is between 8-10Hz and the amplitude is less than 50uV. Most of them occur in adulthood. When people close their eyes or are in an inactive state, they are related to a relaxed and free mood. Also associated with learning new information (remembering without comprehension).
+The frequency of the high alpha wave (High Alpha band) is between 10-13 Hz, which is a high frequency and low amplitude band, representing a state of wakefulness and relaxation, also known as "relaxed brain wave". At this time, the energy consumption of the body and mind is less, and the energy obtained in the brain is relatively high. Therefore, this state represents the smooth functioning of the brain, inspiration and intuition, and is the best brainwave state for learning and thinking.
+
+The low beta wave (Low Beta band) frequency is between 13-20Hz, usually with an amplitude of less than 30uV, and appears in the alert state of all ages and anxiety caused by personal expectations. Represents the state of human beings who are aware and focused on themselves and their surroundings.
+The frequency of high beta wave (High Beta band) is between 20-30Hz, which is the mental state of human beings in active thinking and concentration. It also refers to the general mental state when awake, commonly known as "tensile brain wave", the body will be ready to respond to external The environment reacts; at this time, the physical and mental energy is rapidly depleted, and it is easy to accumulate stress. However, a moderate amount of beta waves can help improve concentration and help individuals learn cognitive behavior.
+
+Low gamma wave (Low gamma band) frequency is between 30-46Hz, which is related to emotional stability and positive thinking. It was often overlooked in the past, but recent studies have found that this wave is related to selective attention. The mind at this time is happy, peaceful and orderly. This wave will ebb and flow as the subject really likes it.
+The high gamma wave (High gamma band) frequency is between 46-70Hz. When humans have a large change in this wave, it means extreme liking (or almost impulsive liking). If the subject really likes the object being tested impulsively, the wave pattern will rise and fall.
+
+---
