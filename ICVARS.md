@@ -71,6 +71,7 @@ Intuitions are often unconscious and therefore difficult to describe in words, a
 Intuition is a cognitive process, a behavior that can be learned from past experience, executed in the present moment quickly and unconsciously, and difficult to describe in words. Therefore, people intuitively use manipulations in situations they have often encountered before. Intuitive interactions are also rapid and unconscious, so people may not be able to explain how they make decisions during intuitive interactions [B108; BPM02; BPM03a; BPM03b; BPM04a; BPM04b; BPM05; BPM07, Concepts of intuitive interaction].
 No designer before knew how to apply familiar interactions to virtual reality to make it intuitive. We experimentally determined the relationship between intuitive interaction and familiarity, and how different aspects of scene design affect intuitive interaction [Bl08; BPM02; BPM03a; BPM03b; BPM04b; BPM05; BPM07; BPM09] The main findings of our study are: Familiar users with similar features are faster at completing tasks and more adaptable to perform interactive tasks than users with less familiarity with related features. 
 Combined with what was mentioned in Section 2.1, intuition is a cognitive process, usually unconscious, our theoretical approach to the concept of intuition interaction can find that it is based on experience, so we can understand what users are using by observing α, β and γ. In the gesture manipulation experiment, the state of mind and body is an interactive process that is more in line with intuitive manipulation. 
+
 ---
 #### 2.2 Intuition Experiment
 直覺實驗在人機交互領域被提出作為一種測試直觀操作的方法，Stefan Brandenburg 和 Katharina Sachse [Intuition comes with experience] 設計了一個實驗環境是，他們製作了一個多點觸控桌面（約 80 cm x 105 cm）。介面包含了一個工作區域，一個文字敘述區域，一個開始按鈕和三個任務物件被放置在工作區域的右邊。實驗的任務是參加者對物件透過手勢執行三種不同的操作(旋轉、剪切、縮放)。
@@ -171,10 +172,36 @@ The Virtual Lab Environment Reference [WSSA Sport Stacking Rule Book https://www
 To test the hypothesis [experiences with different installations lead to different types of intuitive use], we recruited 18 subjects (11 males and 7 females) on the campus of Tainan University of the Arts through advertising to participate in our experimental study. The age of participants ranged from 23 to 27 years (M = 24.5, SD = 1.51). They were randomly assigned to two groups, and with prior use of a VR device, participants were allowed to explore the application we developed before solving the task. Without experience with VR equipment, participants had to attempt to solve experimental tasks without having the opportunity to explore the application in advance.
 
 ---
+### Time test
 
-### Procedure
+在測試試驗開始之前，參與者被指示他們必須操縱虛擬場景裡顯示的三個對像中的每一個。每次交互的任務順序都是隨機選擇的。要開始試驗，受試者必須將其中一個物體拖到指定的位置(抓取)。然後，他們被要求對對象執行特定的手勢操作（即縮放或旋轉）。開始操作之前，參與者必須按下開始按鈕。在這樣做的過程中，時間評估開始了。然後他們執行了一個手勢來操縱物體。當任務成功解決後，對象消失了。要繼續下一個任務，必須將一個新對象拖到屏幕中間。當所有類型的操作都執行完畢後，試驗又開始了。所以每個參與者每個手勢都做了兩次。
+對於沒有使用過VR設備的參與者進行測試需要一些特殊的考慮。首先，他們並不會知道具體要如何互動，因此需要口頭指導。說明必須以標準化的方式呈現，因為措辭的微小變化可能會對交互產生重大影響（ McKnight & Fitton，2010）。一位男性指導員向所有受試者宣讀了任務，並邀請他們先在虛擬環境裡運動他們的手指。他並沒有提供如何執行任務手勢的信息。其次，第一次體驗VR設備的參與者注意較不集中。為了激勵他們完成測試，我們告訴參與者此任務具有時間的競賽性，因此要盡可能地快速完成任務。 
 
-#### Time test
+Before the test trial began, the participants were instructed that they had to manipulate each of the three objects displayed in the virtual scene. The order of tasks for each interaction is randomly chosen. To start the trial, the subject had to drag one of the objects to the designated location (grab). They were then asked to perform a specific gesture operation (i.e. zoom or rotate) on the object. Before starting the procedure, the participant must press the start button. In doing so, the time evaluation begins. Then they performed a gesture to manipulate the object. When the task is successfully resolved, the object disappears. To move on to the next task, a new object must be dragged to the middle of the screen. When all types of operations have been performed, the experiment begins again. So each participant did each gesture twice.
+Testing with participants who have not used VR equipment requires some special considerations. First, they don't know exactly how to interact, so they need verbal instruction. Instructions must be presented in a standardized manner, as small changes in wording can have a significant impact on interactions (McKnight & Fitton, 2010). A male instructor read out the task to all subjects and invited them to move their fingers in a virtual environment first. He did not provide information on how to perform task gestures. Second, participants who experienced VR equipment for the first time were less attentive. To motivate them to complete the test, we told participants that this task is time-competitive, so do it as quickly as possible.
 
+#### Results
 
-#### Brain Wave Test
+這個實驗是基於[Intuition comes with experience] 得架構，我們同樣評估了兩個不同的時間，即首次點擊時間 (TFC) 和總任務時間 (TTT)。TFC代表按下按鈕後到抓取第一個杯子的時間。TTT代表按下按鈕到完成全部任務的時間。我們也記錄了第一次執行的時間(T1)和第二次執行得時間(T2)。
+%對於數據分析，使用時間（T1 和 T2）、手勢（抓取、旋轉和縮放）和組（有經驗的成人和沒有經驗的成人）作為受試者內因素計算三向 MANOVA。依賴項是總任務時間 (TTT) 和首次點擊時間 (TFC)。此外，如果適用，還計算了事後測試（例如 Scheffé 測試）。最後報告了 eta < 0.08 表示eta 偏小，0.08 < eta < 0.14 被認為是中等， eta > 0.14 被認為是大的（另見 Cohen，1988 年）。
+
+This experiment is based on the [32 Intuition comes with experience] architecture, and we also evaluate two different times, time to first click (TFC) and total task time (TTT). TFC stands for the time from pressing the button to grabbing the first cup. TTT represents the time from pressing the button to completing the full task. We also recorded the time of the first execution (T1) and the time of the second execution (T2).
+For data analysis, a three-way MANOVA was calculated using time (T1 and T2), gesture (grab, rotate, and zoom), and group (experienced and inexperienced adults) as within-subject factors. The dependencies are total task time (TTT) and time to first hit (TFC). In addition, post hoc tests (such as Scheffé tests [40]) are also calculated, if applicable. It was finally reported that eta < 0.08 indicated a small eta, 0.08 < eta < 0.14 was considered moderate, and eta > 0.14 was considered large (see also Cohen, 1988). 
+
+### Brain Wave Test
+
+#### Data Analysis
+
+#### Results
+
+### Questionnaire
+
+本問卷是基於[35]的問卷架構，目的是VR 應用程序和集成手部動作識別技術在沉浸感和直觀交互方面的評估。為此，進行了組間研究，參與者都獲得了與VR 直觀手勢操作相關的問題的預測試知識問卷（pre-KT）。在體驗後（KT 後）向參與者提供了相同的知識問卷，他們要么使用了攝影機追蹤方式，要么使用了控制器，要么使用了數據手套，使用 5 點李克特量表。
+
+This questionnaire is based on the questionnaire architecture of [35] and aims to evaluate VR applications and integrated hand motion recognition technology in terms of immersion and intuitive interaction. To this end, a between-group study was conducted, and participants were all given a pre-test knowledge questionnaire (pre-KT) on questions related to intuitive gesture manipulation in VR. Participants were presented with the same knowledge questionnaire post-experience (post-KT), using either a camera tracking modality, a controller, or a data glove, using a 5-point Likert scale.
+
+#### Results
+
+儘管如此，對後問卷數據的分析顯示出在直觀操作性方面確實令人鼓舞的結果 [14]，例如增強空間知識表示和增加的動機和參與度。參與者在多個方面對使用手部動作識別技術的 VR 應用進行了非常高的評分：(i) 提高沉浸感，(ii) 用手進行交互的興奮度，(iii) 準確性 跟踪手的運動，(iv) 易於處理 3D 虛擬對象 (v) 促進對傳達信息的理解。 所有這些方面的平均值均大於 4 (M >= 4.1)，其中 5 表示最大陽性率。 問卷的數據分析結果如圖6所示。
+
+Nonetheless, analysis of the post-questionnaire data showed indeed encouraging results in terms of intuitive manipulability, such as enhanced spatial knowledge representation and increased motivation and engagement. Participants rated VR applications using hand motion recognition technology very highly on several fronts: (i) increased immersion, (ii) the excitement of interacting with hands, (iii) accuracy in tracking hand movements , (iv) ease of handling 3D virtual objects (v) facilitating understanding of conveyed information. The mean for all of these dimensions is greater than 4 (M >= 4.1), where 5 represents the maximum positivity rate. The results of the data analysis of the questionnaire are shown in Figure 6.
