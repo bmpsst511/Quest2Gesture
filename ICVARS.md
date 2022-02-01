@@ -190,7 +190,19 @@ For data analysis, a three-way MANOVA was calculated using time (T1 and T2), ges
 
 ### Brain Wave Test
 
+#### Hardware Components
+
+由 HTC 開發的 Vive Pro 與 Meta 開發的 Oculus Quest2 被用作實驗的 VR 設備。 用戶界面在 VR 屏幕上實現並使用LeapMotion, Monochrome Camera, Valve Index 跟 Data Glove 四種設備進行交互。 Looxid Labs 開發的 Looxid Link 是一款設計用於安裝在 VR 設備上的腦電圖記錄設備，用於記錄腦電圖數據。 值得注意的是，六個乾電極嵌入在一個可穿戴設備中，因此無需任何專家參與，只需一次嘗試即可輕鬆地將它們連接到前額。 乾電極由鍍金印刷電路板製成，旨在針對前額區域（AF3、AF4、AF7、AF8、Fp1 和 Fp2）。 參考電極放置在右耳垂上，接地電極放置在參考電極旁邊。
+
+The Vive Pro developed by HTC and the Oculus Quest2 developed by Meta were used as experimental VR devices. The user interface is implemented on the VR screen and interacts with the Data Glove four devices using LeapMotion, Monochrome Camera, Valve Index. Developed by Looxid Labs, the Looxid Link is an EEG recording device designed to be mounted on a VR device to record EEG data. Notably, the six dry electrodes are embedded in a wearable device, so they can be easily attached to the forehead in a single attempt without any expert involvement. The dry electrodes are made of gold-plated printed circuit boards and are designed to target the forehead area (AF3, AF4, AF7, AF8, Fp1 and Fp2). The reference electrode was placed on the right earlobe, and the ground electrode was placed next to the reference electrode.
+
 #### Data Analysis
+
+
+**Recording and pre-processing**\
+為了測量背景大腦活動，我們參考了 Lee et al [43 Synergy through Integration of Wearable EEG and Virtual Reality for Mild Cognitive Impairment and Mild Dementia Screening: Protocol Design and Feasibility Study]的數據預處理方式，在沒有外部刺激的情況下，在閉眼的靜息清醒狀態下記錄靜息狀態腦電圖。 然後，在受試者執行 VR 任務時獲得任務誘導的腦電圖記錄。 從一個記錄的數據點中提取 EEG 信號的事件相關時間戳並用於進一步分析。 以 500 Hz 的採樣率記錄信號。 然後，我們對腦電圖記錄進行如下預處理：（1）截止頻率為 0.5 Hz 的高通濾波，（2）截止頻率為 60 Hz 的帶阻濾波，以及（3）帶 - 截止頻率為 1 Hz 和 50 Hz 的通濾波。 所有過濾均使用三階巴特沃斯濾波器實現。
+
+To measure background brain activity, we refer to the data preprocessing method of Lee et al [43 Synergy through Integration of Wearable EEG and Virtual Reality for Mild Cognitive Impairment and Mild Dementia Screening: Protocol Design and Feasibility Study], in the absence of external stimulation , the resting-state EEG was recorded in the resting awake state with eyes closed. Then, task-induced EEG recordings were obtained while the subjects performed the VR task. Event-related timestamps of the EEG signal were extracted from one recorded data point and used for further analysis. Record the signal at a sampling rate of 500 Hz. We then preprocessed the EEG recordings as follows: (1) high-pass filtering with a cut-off frequency of 0.5 Hz, (2) band-stop filtering with a cut-off frequency of 60 Hz, and (3) band-cut-off frequency of 1 Hz and 50 Hz pass filtering. All filtering is implemented using a third-order Butterworth filter.
 
 #### Results
 
