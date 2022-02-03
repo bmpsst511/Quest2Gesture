@@ -38,7 +38,7 @@ public class DragObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(grabtimes);
+        //Debug.Log(grabtimes);
         RaycastHit hit;
         Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
 
